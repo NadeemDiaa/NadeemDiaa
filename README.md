@@ -63,7 +63,7 @@ Computer Science Student • AI/ML Engineer • Cybersecurity Enthusiast
 ## 📌 Featured Projects
 
 ### 🧠 Alzheimer’s Disease Progression Prediction
-🔗 Repo: <PRIVATE_URL>
+🔗 Repo: <https://github.com/NadeemDiaa/Alzheimers-Disease-Progression-Prediction-using-Machine-Learning>
 
 - Developed a machine learning pipeline using multimodal ADNI medical datasets
 - Applied preprocessing, feature engineering, SMOTE balancing, and Optuna tuning
@@ -75,7 +75,7 @@ Computer Science Student • AI/ML Engineer • Cybersecurity Enthusiast
 ---
 
 ### 🪙 Coin Classifier & Total Value Calculator
-🔗 Repo: <PRIVATE_URL>
+🔗 Repo: <https://github.com/NadeemDiaa/Coin-Classifier-and-Value-Calculator>
 
 - Built a computer vision system for Egyptian coin detection and classification
 - Used contour analysis, adaptive thresholding, and Hough Circle detection
@@ -86,7 +86,7 @@ Computer Science Student • AI/ML Engineer • Cybersecurity Enthusiast
 ---
 
 ### 📰 Media & Public Opinion Analysis
-🔗 Repo: <PRIVATE_URL>
+🔗 Repo: <https://github.com/NadeemDiaa/Media-Public-Opinion-Analysis>
 
 - Collected and analyzed 18 months of news data using The Guardian & NYT APIs
 - Performed sentiment analysis using VADER and PCA visualization
@@ -97,7 +97,7 @@ Computer Science Student • AI/ML Engineer • Cybersecurity Enthusiast
 ---
 
 ### 📅 TAConnect
-🔗 Repo: <PRIVATE_URL>  
+🔗 Repo: <https://github.com/labubou/TAConnect>  
 🌐 Live App: Add your deployment link here
 
 - Developed a responsive office-hour scheduling web application
